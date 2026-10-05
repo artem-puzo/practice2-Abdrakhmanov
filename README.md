@@ -11,7 +11,7 @@
 Адаптивный веб-каталог товаров на HTML5 и SCSS (Grid, Flexbox). Данные и стили темы загружены из `dataset/catalog.csv` и `dataset/theme.json`.
 
 ### Запуск:
-1. Клонировать репозиторий: `git clone https://github.com/artem-puzo/pratice2ForMackievsky`
+1. Клонировать репозиторий: `git clone [https://github.com/artem-puzo/pratice2ForMackievsky](https://github.com/artem-puzo/practice2-Abdrakhmanov)`
 2. Перейти в папку проекта: `cd practice2 Abdrakhmanov`
 3. Открыть `index.html` в любом браузере.
 
